@@ -30,7 +30,8 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop-preview](./images/desktop-view.PNG)
--Mobile view (Responsive)
+
+### Mobile view (Responsive)
 ![mobile-preview](./images/mobile_view.PNG)
 
 
@@ -40,8 +41,8 @@ Users should be able to:
 - Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
--Nothing of abig deal just HTML and CSS
--I Always forget to adde semantics but i will put in use in my next projects
+-Nothing of a big deal just HTML and CSS
+-I Always forget to add semantics but i will put in use in my next projects
 
 ### Built with
 
