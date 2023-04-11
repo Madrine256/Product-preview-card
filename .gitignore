@@ -15,9 +15,10 @@
 .DS_Store
 .prettierignore
 
-#include the foloeup design templates
+#includes the folowup design templates
 design/
 #just the readme template and the style guide 
-README-template.md
-style-guide.md
+.md
+#execpt the readme.md file
+!README.md
 
