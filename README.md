@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github ](https://github.com/Madrine256/Product-preview-card)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://madrine256.github.io/Product-preview-card/)
 
 ## My process
 -Nothing of a big deal just HTML and CSS
@@ -62,7 +62,7 @@ simply use :
 [git rm --cached filename > enter] and for the folder use [git rm -r --cached folder name]
 
 ```
-[for more info](https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/)
+[About gitignore](https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/)
 
 
 ### Continued development
@@ -70,7 +70,7 @@ simply use :
 
 ### Useful resources
 
-[for more info](https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/) - Learn to use .gitignore file
+[Click here for info on gitignore](https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/) - Learn to use .gitignore file
 
 ## Author
 
